@@ -1,3 +1,5 @@
+## Link para a aplicação:
+https://GustavoSFer.github.io/recipe-app
 
 
 # Boas vindas ao repositório do projeto de Receitas!
